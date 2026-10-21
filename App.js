@@ -277,7 +277,7 @@ function CarrinhoScreen({ navigation }) {
             if (finalizar()) navigation.navigate('Pedidos');
           }}
         >
-          <Text style={styles.botaoTexto}>Finalizar pedido</Text>
+          <Text style={styles.botaoTexto}>Finalizar Pedido</Text>
         </TouchableOpacity>
       </View>
     </View>
